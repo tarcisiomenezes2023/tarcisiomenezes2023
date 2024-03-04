@@ -1,4 +1,4 @@
-<h1 align="center">Hello World !👋 Welcome to my profile</h1>
+<h1 align="center" style="color: black;">Hello World !👋 Welcome to my profile</h1>
 <h3 align="center">A passionate frontend developer from Brazil.</h3>
 
 <h3 align="left">Connect with me: <a href="https://www.instagram.com/tarcisio.menezes19/"> Instagram</h3>
