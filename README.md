@@ -10,5 +10,5 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tarcisiomenezes2023&show_icons=true&locale=en&layout=compact" alt="tarcisiomenezes2023" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tarcisiomenezes2023&" alt="tarcisiomenezes2023" /></p>
+
 
