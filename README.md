@@ -1,10 +1,3 @@
-<style>
-  * {
-    background: white;
-    color: black;
-  }
-</style>
-
 <h1 align="center" style="color: black;">Hello World !👋 Welcome to my profile</h1>
 <h3 align="center">A passionate frontend developer from Brazil.</h3>
 
